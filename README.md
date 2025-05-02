@@ -1,13 +1,6 @@
 # 🚀 Cursor Revenue Growth Timeline
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/getcursor/cursor/main/assets/cursor-256.png" alt="Cursor Logo" width="128" height="128">
-  <h3>From Founding to $300M ARR in Just Over 3 Years</h3>
-</div>
-
-<div align="center">
-  <img src="preview.png" alt="Cursor Revenue Growth Chart" width="100%">
-</div>
+## From Founding to $300M ARR in Just Over 3 Years
 
 ## 📊 Overview
 
