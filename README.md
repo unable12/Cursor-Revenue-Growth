@@ -1,4 +1,4 @@
-# 🚀 Cursor Revenue Growth Timeline
+# Cursor Revenue Growth Timeline
 
 ## From Founding to $300M ARR in Just Over 3 Years
 
